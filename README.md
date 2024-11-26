@@ -86,19 +86,6 @@ O vídeo e o áudio baixados serão salvos no diretório **video/**.
    pip install --upgrade pytubefix
    ```
 
-### 7. Estrutura Após a Execução
-Após rodar o main.py, a estrutura será semelhante a esta:
-
-```css
-downloaderYoutube/
-├── main.py
-├── venv/
-├── video/
-    ├── video.mp4
-    ├── audio.mp4
-
-```
-
 <br/>
 
 ### Licença
