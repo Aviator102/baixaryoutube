@@ -88,5 +88,7 @@ O vídeo e o áudio baixados serão salvos no diretório **video/**.
 
 <br/>
 
-### Licença
-Este projeto é distribuído sob a licença MIT.
+### Colaboradores
+
+- [Carlos Longhi](https://github.com/CarlosLonghi)
+- [Lucas Rissi](https://github.com/LRissi)
