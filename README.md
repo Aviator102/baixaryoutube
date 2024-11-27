@@ -1,4 +1,4 @@
-# Downloader YouTube
+# YouTube Downloader
 
 Este projeto permite baixar vídeos e áudios do YouTube em diferentes resoluções usando Python.
 
