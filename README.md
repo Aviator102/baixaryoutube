@@ -7,7 +7,7 @@ Este projeto permite baixar vídeos e áudios do YouTube em diferentes resoluç�
 ## Estrutura do Projeto
 
 ```css
-downloaderYoutube/
+YTDownloader/
 ├── main.py
 ├── venv/
 ├── video/
